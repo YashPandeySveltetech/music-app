@@ -1,0 +1,11 @@
+.sidebar{
+    width: 50%;
+    /* background-color: aqua; */
+    height: 100%;
+}
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 55rem solid transparent;
+	border-bottom: 50rem solid #555;
+}
